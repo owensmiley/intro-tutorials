@@ -16,9 +16,16 @@ on Slack and we'll help you get everything working!
 
 [Recording](https://umich.zoom.us/rec/share/NYc2GqrsstcEDprQlll9LzvWhlwj_xrBPvSDJsPQ_jzG31OHXiCLnmgZLT99eANt.A0tWD7qcO6U1rx9W)
 
+The checkpoint tasks are specified in `tutorial1/checkpoint.pdf`.
+
 ## Tutorial 2: Numpy, Pandas, and Python Data Science
 
-Recording coming soon.
+[Recording](https://umich.zoom.us/rec/play/MpyuhjOgd93dnyf66uDyRRR1si6DOahu4E8WBIra6WMnssJ3u3XclfkI7F-g8GZ5coSfI6bQ6KdDEIKp.GzPQE-NV1AlnKynb?continueMode=true)
+
+The checkpoint assignment is to complete the exercises in `tutorial2/Numpy and
+Pandas.ipynb`, then push your edited notebook to your git repository.
+
+You can view Naitian's notes from the presentation in `tutorial2/notes.txt`.
 
 ## Tutorial 3: Machine Learning!
 
