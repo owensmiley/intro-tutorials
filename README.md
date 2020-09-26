@@ -12,6 +12,12 @@ to set up your computer.  If you run into issues with this (totally possible --
 setting up Python is [kind of a mess](https://xkcd.com/1987/)), please reach out
 on Slack and we'll help you get everything working!
 
+## Tutorial 0.5: Checkpoint setup!
+
+[Recording](https://drive.google.com/file/d/1zf6RZSQ0y5zTI7bTOm25r7TGlSBspZ2Y/view?usp=sharing)
+
+Checkpoints will be submitted by uploading your work to a repository on your own account. See the file `checkpoint_setup.md` for help on how to set this up.
+
 ## Tutorial 1: Python and Command Line Basics
 
 [Recording](https://umich.zoom.us/rec/share/NYc2GqrsstcEDprQlll9LzvWhlwj_xrBPvSDJsPQ_jzG31OHXiCLnmgZLT99eANt.A0tWD7qcO6U1rx9W)
