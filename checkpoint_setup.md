@@ -58,6 +58,6 @@ Once you have added all the files you want to save at once, run `git commit`. Th
 
 After committing, if you run `git status again`, the _changes to be committed_ section will disappear (those files have now been committed). The rest will look the same.
 
-Finally, to push your changes, run `git push`. After providing your login information, you will be able to refresh the github page and see your changes!
+Finally, to push your changes, run `git push -u origin master`. After providing your login information, you will be able to refresh the github page and see your changes!
 
 > If you have authentication errors, you may need to create an SSH key. See [this guide](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for help.
