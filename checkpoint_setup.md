@@ -1,8 +1,11 @@
 
 # Checkpoint Setup
 
+At the end of this guide, you should have two separate folders, `intro-tutorials` and `mdst_tutorials`. `intro-tutorials` is a clone (copy) of this repo (owned by MDST) and will have all the files you need for the tutorials. `mdst_tutorials` is your own public repo where you will be uploading your completed checkpoints for us to review.
+ 
+
 ### 1. Clone the MDST tutorial repository
-1.1 Pick a place on your desktop to put this repo (Desktop, Documents, etc.)\
+1.1 Pick a place on your computer to put this repo (Desktop, Documents, etc.)\
 1.2 Navigate there in your terminal (WSL/Ubuntu for Windows users)\
 1.3 Run `git clone https://github.com/MichiganDataScienceTeam/intro-tutorials`\
 
@@ -24,7 +27,7 @@ The git repository you made here is saved only to your computer. Next we want to
 You should already have a github account. If not, make one!
 
 3.1 On github.com, find the button to make a new repository. Click on it.\
-3.2 Give the repo a name and description and make it private. **Do not** initialize the repo with a README or .gitignore (we will be importing an existing repository)\
+3.2 Give the repo a name and description and make it public. **Do not** initialize the repo with a README or .gitignore (we will be importing an existing repository)\
 3.3 Finish creating the repository
 
 
