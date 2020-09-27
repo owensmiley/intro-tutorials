@@ -17,6 +17,7 @@ on Slack and we'll help you get everything working!
 [Recording](https://drive.google.com/file/d/1zf6RZSQ0y5zTI7bTOm25r7TGlSBspZ2Y/view?usp=sharing)
 
 Checkpoints will be submitted by uploading your work to a repository on your own account. See the file `checkpoint_setup.md` for help on how to set this up.
+** correction: in the video, I create a private repository but make yours public! Otherwise we can't check that you did them :(
 
 ## Tutorial 1: Python and Command Line Basics
 

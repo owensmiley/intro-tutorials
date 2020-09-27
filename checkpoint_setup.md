@@ -7,7 +7,7 @@ At the end of this guide, you should have two separate folders, `intro-tutorials
 ### 1. Clone the MDST tutorial repository
 1.1 Pick a place on your computer to put this repo (Desktop, Documents, etc.)\
 1.2 Navigate there in your terminal (WSL/Ubuntu for Windows users)\
-1.3 Run `git clone https://github.com/MichiganDataScienceTeam/intro-tutorials`\
+1.3 Run `git clone https://github.com/MichiganDataScienceTeam/intro-tutorials`
 
 Cloning the repo downloads all of the files from [online](https://github.com/MichiganDataScienceTeam/intro-tutorials) to your computer. They will be in a new directory called `intro-tutorials`, located in the folder from which you ran git clone.
 > Be careful to not make edits in this repository! We will have you pull to get updates we make, and you will get errors if you have made changes locally (on your computer).
