@@ -1,6 +1,6 @@
 # MDST Tutorials
 
-All checkpoints are due *October 7th*. Submission form coming soon!
+All checkpoints are due *October 7th*. Submission form [here](https://forms.gle/Yb3Pz5S1cGs6TsXS8)!
 
 Office hours are Thursdays from 6-7pm Eastern time. Check our
 [calendar](https://mdst.club/agenda) for the deets.
